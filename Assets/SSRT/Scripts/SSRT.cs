@@ -22,7 +22,7 @@ public class SSRT : MonoBehaviour
     [Range(1, 4)]
     public int rotationCount = 4;
     [Tooltip("Number of samples taken along one edge of the current conic slice.")]
-    [Range(1, 16)]
+    [Range(1, 100)]
     public int stepCount = 8;
     [Tooltip("Effective sampling radius in world space. AO and GI can only have influence within that radius.")]
     [Range(1, 25)]
