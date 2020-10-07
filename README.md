@@ -1,6 +1,6 @@
 # Unity-SSRT-lighting-sample
 Unity screen space raytraced lighting sample project
-![rtr](rtr.png)
+![rte](rte.png)
 
 Plugins used:
 
